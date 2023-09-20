@@ -29,7 +29,7 @@
   
 
 ## Trucs à changer :
-Keybinds : Pour jeter un objet
+Keybinds : Pour jeter un objet (j'ai mis J mais ça plaît pas à tout le monde)  
 Shaders : Dans les Options graphiques, cliquez sur Packs de shaders, BSL, Appliquer, Terminé (x3)
 
 ---
