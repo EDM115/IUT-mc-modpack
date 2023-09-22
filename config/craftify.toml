@@ -16,7 +16,7 @@
 	position_x_offset = 1.0
 	position_y_offset = 0.0
 	anchor_point = 2
-	render_type = 2
+	render_type = 5
 
 [login]
 	refresh_token = ""

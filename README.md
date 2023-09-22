@@ -37,7 +37,7 @@
 
 ## Trucs à changer :
 Keybinds : Pour jeter un objet (j'ai mis J mais ça plaît pas à tout le monde)  
-Shaders : Dans les Options graphiques, cliquez sur Packs de shaders, BSL, Appliquer, Terminé (x3)  
+Shaders : Dans les Options graphiques, cliquez sur Packs de shaders, séléctionnez celui que vous voulez, Appliquer, Terminé (x3)  
 Mods -> Capes : Activez toutes les sources de capes (au cas où) parce que MinecraftCapes est désactivé par défaut alors que c'est le + utilisé  
 Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas besoin), Craftify (si vous voulez pas écouter de musique), Inventory Profiles Next (en vrai vous pouvez désactiver juste le gros texte qui s'affiche quand ton outil va casser), Mouse Tweaks (si vous en avez marre du craft autocomplete)
 
@@ -56,6 +56,7 @@ Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas
 - [Capes](https://modrinth.com/mod/capes) : Support pour pas mal de capes
 - [Chat Heads](https://modrinth.com/mod/chat-heads) : Pour voir la grosse tête de celui qui parle (faites Tab pour charger toutes les têtes)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) : Implémente les textures d'items customs d'Optifine
+- [ClearDespawn](https://modrinth.com/mod/cleardespawn) : Les items vont clignoter 20s avant de despawn
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) : Les chunks chargent et se génèrent plus vite
 - [Continuity](https://modrinth.com/mod/continuity) : Implémente les textures connectées d'Optifine
 - [Craftify](https://modrinth.com/mod/craftify) : Écoute ta musique in-game (Spotify, Apple Music, YouTube)
@@ -63,6 +64,7 @@ Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) : Pareil mais en moins moche (pour ceux qui veulent)
 - [DashLoader](https://modrinth.com/mod/dashloader) : Charge le jeu à la vitesse de la lumière
 - [Debugify](https://modrinth.com/mod/debugify) : Corrige les bugs que Mojang a la flemme de corriger
+- [Distinguished Potions](https://modrinth.com/mod/distinguished-potions) : Pour arrêter de confondre les potions
 - [Don't Clear Chat History](https://modrinth.com/mod/dcch) : Garde l'historique du chat même après avoir fermé le jeu
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) : Réduit les FPS quand Minecraft est pas focus
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) : Le rendu des coffres, lits, panneaux, ... est plus fluide
@@ -72,6 +74,7 @@ Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas
 - [Fabrishot](https://modrinth.com/mod/fabrishot) : Prends des screenshots en 4K
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) : Garde les chunks en mémoire même si le serv dit non
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) : Réduit l'usage de la RAM drastiquement
+- [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils) : Fullbright sur demande
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) : Charge tout plus vite
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) : Tri des inventaires/coffres, remplacement des outils presque cassés, ...)
 - [Iris Shaders](https://modrinth.com/mod/iris) : Gère mieux les shaders qu'Optifine
@@ -94,6 +97,7 @@ Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) : Rajoute des animations pour quasi tout
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) : Le jeu crash ? Bah maintenant tu sais pourquoi
 - [OptiGUI](https://modrinth.com/mod/optigui) : Implémente les interfaces custom d'Optifine
+- [Potions Re-Glint](https://modrinth.com/mod/potions-re-glint) : Rajoute l'effet de brillance sur les potions
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) : Change le son de vos pas en fonction de la surface. Change aussi le son de pas mal d'objets
 - [Puzzle](https://modrinth.com/mod/puzzle) : Permet de customiser les options des mods qui ajoute des fonctionnalités d'Optifine
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) : Encore plus d'options pour Sodium
@@ -103,16 +107,20 @@ Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas
 - [Sodium](https://modrinth.com/mod/sodium) : Change complètement le rendu du jeu, gros boost de FPS
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) : Toujours plus d'options pour Sodium
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) : Change le son du jeu (absorption, atténuation, réverbération, ...)
-- [Starlight](https://modrinth.com/mod/starlight) : Change la gestion de la lumière
 - [ToolTipFix](https://modrinth.com/mod/tooltipfix) : Les popups sortent plus de l'écran maintenant
 - [Zoomify](https://modrinth.com/mod/zoomify) : Le zoom d'Optifine mais tu peux scroll pour zoomer +
-- [e4mc](https://modrinth.com/mod/e4mc) : Ouvre ton serv local en LAN mais t'es pas obligé d'être sur le même réseau (un peu comme [ESSENTIAL Mod](https://modrinth.com/mod/essential)
+- [e4mc](https://modrinth.com/mod/e4mc) : Ouvre ton serv local en LAN mais t'es pas obligé d'être sur le même réseau (un peu comme [ESSENTIAL Mod](https://modrinth.com/mod/essential))
 
 ## Resource Packs :
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) : Un thème sombre de toute l'interface
 - [Dracula Theme](https://modrinth.com/resourcepack/dracula-theme) : Le thème Dracula même dans Minecraft
-- [Fullbright UB](https://modrinth.com/resourcepack/fullbright-ub) : Pour mieux voir dans le noir
+- [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd) : Affiche une icône pour chaque catégorie d'enchantement
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) : Chaque livre d'enchantement a une texture unique
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) : Change complètement les animations des mobs
+- [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) : Parce que vous êtes pas tous bilingues
 - [VisibleOres](https://www.curseforge.com/minecraft/texture-packs/visible-ores) : Les minerais sont plus jolis, on les trouve mieux et elles peuvent briller
 
 ## Shaders :
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders) : Les meilleurs shaders. point.
+- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) : Un changement complet de Complementary Shaders (c'est magnifique)
+- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) : L'original, avec une incroyable qualité

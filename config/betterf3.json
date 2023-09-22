@@ -35,23 +35,6 @@
 			"enabled": true
 		}, 
 		{
-			"name": "miscright",
-			"name_color": 16645526,
-			"value_color": 5636095,
-			"lines": {
-				"misc_right": true
-			},
-			"enabled": true
-		}, 
-		{
-			"empty_lines": 1,
-			"name": "empty",
-			"lines": {
-				"nothing": true
-			},
-			"enabled": true
-		}, 
-		{
 			"name": "target",
 			"name_color": 43775,
 			"value_color": 16777045,
