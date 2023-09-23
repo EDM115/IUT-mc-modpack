@@ -1,0 +1,10 @@
+#Sat Sep 23 16:36:08 CEST 2023
+shadowMapResolution=512
+fogClipDist=384.0
+waterNormalOctaves=3
+motionblurToggle=false
+lensFlareToggle=true
+TAAU_FXAA_PostPass=false
+lensFlareHaloToggle=true
+DoFQuality=0
+RSKY_VC_Samples=50

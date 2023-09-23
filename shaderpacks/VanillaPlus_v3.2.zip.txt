@@ -1,0 +1,5 @@
+#Sat Sep 23 16:44:48 CEST 2023
+taaEnabled=false
+shadowMapResolution=512
+waterFogEnabled=false
+vignetteEnabled=false

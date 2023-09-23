@@ -3,7 +3,7 @@
 # IUT-mc-modpack
 ## Modpack for the IUT Vannes Minecraft Server
 
-![IUT Vannes Minecraft Server logo](./mcvannes.live.png)
+[![IUT Vannes Minecraft Server logo](./mcvannes.live.png)](https://mcvannes.live/)
 
 ### C'est fluide woah
 
@@ -59,7 +59,6 @@ Mods à désactiver : Craftify (si vous voulez pas écouter de musique)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) : Implémente les textures d'items customs d'Optifine
 - [ClearDespawn](https://modrinth.com/mod/cleardespawn) : Les items vont clignoter 20s avant de despawn
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) : Les chunks chargent et se génèrent plus vite
-- [Continuity](https://modrinth.com/mod/continuity) : Implémente les textures connectées d'Optifine
 - [Craftify](https://modrinth.com/mod/craftify) : Écoute ta musique in-game (Spotify, Apple Music, YouTube)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) : Évite de render les feuilles à l'intérieur des arbres
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) : Pareil mais en moins moche (pour ceux qui veulent)
@@ -72,6 +71,7 @@ Mods à désactiver : Craftify (si vous voulez pas écouter de musique)
 - [Entity Culling](https://modrinth.com/mod/entityculling) : Arrête de rendre les mobs/entitées que tu vois pas
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features) : Ajoute les entitées émissives d'Optifine
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) : Ajoute les textures d'entitées d'Optifine
+- [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) : Permets aux shaders/resource packs d'avoir des nuages/ciels custom
 - [Fabrishot](https://modrinth.com/mod/fabrishot) : Prends des screenshots en 4K
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) : Garde les chunks en mémoire même si le serv dit non
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) : Réduit l'usage de la RAM drastiquement
@@ -119,9 +119,50 @@ Mods à désactiver : Craftify (si vous voulez pas écouter de musique)
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) : Chaque livre d'enchantement a une texture unique
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) : Change complètement les animations des mobs
 - [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium) : Parce que vous êtes pas tous bilingues
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) : Plein de petits changements au jeu de base ([version custom](https://vanillatweaks.net/share/#WMW3kO))
 - [VisibleOres](https://www.curseforge.com/minecraft/texture-packs/visible-ores) : Les minerais sont plus jolis, on les trouve mieux et elles peuvent briller
+  
+---
+  
+## Désactivé par défaut :
+Ces trucs sont désactivés soit parce qu'ils entrent en conflit avec quelque chose d'autre, soit parce que c'est optionnel  
+Vous pouvez les activer mais bah... Vous verrez bien :(  
+⚠️ Les fichiers trop lourds ont été séparés en plusieurs parties (.001, ...) Vous pouvez les rassembler avec cat sous Linux (`cat fichier.zip.* > fichier.zip`) ou PeaUtils sous Windows (séléctionnez Join spanned file et séléctionnez le .001 uniquement) -> Téléchargez [PeaZip](https://peazip.github.io/peazip-64bit.html), puis menu Outils, PeaUtils
 
-## Shaders :
+### Mods :
+- [Continuity](https://modrinth.com/mod/continuity) : Implémente les textures connectées d'Optifine
+- [Physics Mod (Pro)](https://minecraftphysicsmod.com/) : Ragdoll, mer réaliste, fumée, particules quand on casse un bloc, ... ATTENTION ça lag
+Comment les activer ?  
+Renommez-les en enlevant `.disabled` à la fin  
+
+### Resource Packs :
+- [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars) : Un boss = Une bossbar différente
+- [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) : Les textures de base mais avec une qualité doublée
+- [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) : Pareil mais la qualité est quadruplée
+- [Hyper realistic sky](https://modrinth.com/resourcepack/hyper-realistic-sky) : Un ciel réaliste
+- [Icons](https://modrinth.com/resourcepack/icons) : Rajoute des icônes sur quasiment tous les boutons dans les menus
+- [Pixlli](https://modrinth.com/resourcepack/pixlli) : Un look vanilla avec une qualité 128x
+- [Prime's HD Textures](https://modrinth.com/resourcepack/primes-hd-textures) : Meilleures textures, 32x
+- [rotrBLOCKS](https://modrinth.com/resourcepack/rotrblocks) : Des textures un peux plus smooth, 128x (dézippez l'archive sinon ça marchera pas)
+- [Roundista](https://modrinth.com/resourcepack/roundista) : Tout est plus rond et 3D, 128x
+- [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr) : Les textures vanilla mais upscale (le style est très smooth)
+⚠️ Si vous utilisez ce pack, remplacez ces 3 packs par leur version [6xBR](https://packxbr.f53.dev/)
+- Default Dark Mode
+- Dracula
+- VisibleOres
+
+
+### Shaders :
+- [Beyond Belief Shaders](https://www.curseforge.com/minecraft/shaders/beyond-belief-shaders) : Des shaders très clean, basés sur Sonic Either
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders) : Les meilleurs shaders. point.
+- [Chocapic13' Shaders](https://www.curseforge.com/minecraft/shaders/chocapic13-shaders) : Des shaders étonnament peu coûteux en ressources (dézippez le fichier)
 - [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) : Un changement complet de Complementary Shaders (c'est magnifique)
 - [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) : L'original, avec une incroyable qualité
+- [FastPBR](https://modrinth.com/shader/fastpbr) : C'est joli et ça tourne bien
+- [Kappa Shader](https://modrinth.com/shader/kappa-shader) : Oui c'est beau mais ça tournera jamais sur ton PC portable
+- [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) : Peu d'effets activés par défaut, très rapide
+- [SEUS Renewed](https://www.sonicether.com/seus/) : Les shaders les plus connus, avec des bonnes perfs
+- [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io/) : C'est clean mais coûteux en ressources
+- [Soft Voxels Lite](https://modrinth.com/shader/soft-voxels-lite) : Comme [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) mais qui nécessite pas une RTX 4090
+- [Solas Shader](https://modrinth.com/shader/solas-shader) : Très clean et plutôt correct en usage de ressources
+- [Vanilla Plus Shader](https://modrinth.com/shader/vanilla-plus-shader) : Pas beaucoup de changements drastiques, donc de meilleurs perfs

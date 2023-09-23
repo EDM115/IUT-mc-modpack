@@ -1,0 +1,25 @@
+#Sat Sep 23 16:40:05 CEST 2023
+CLOUD_PLANE0_DEPTH=1500.0
+ssptEnabled=false
+motionblurToggle=false
+shadowVPSEnabled=false
+RSKY_SI_CloudV_Samples=40
+RFOG_SB_FogWeather=false
+netherSmokeEnabled=false
+CLOUD_RENDER_LOD=4.0
+contactShadowsEnabled=false
+waterDensity=0.6
+ssptAdvancedEmission=false
+waterVolClipDist=32.0
+airTransmittanceHQ=false
+TAAU_FXAA_PostPass=false
+exposureComplexEnabled=false
+indirectResReduction=3
+CLOUD_PLANE1_DEPTH=500.0
+shadowMapResolution=512
+cloudTemporalUpscaleEnabled=false
+shadowFilterIterations=9
+RINDIRECT_USE_SSAO=false
+cloudReflectionsToggle=false
+SVGF_FILTER=false
+fogVolumeEnabled=false
