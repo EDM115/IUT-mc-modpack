@@ -19,8 +19,10 @@
 - Enjoy
 ### Version pas simple
 - Vous [téléchargez](https://github.com/EDM115/IUT-mc-modpack/archive/refs/heads/master.zip) le repo
-- Vous créez vous-mêmes une instance (`Minecraft v1.20.1 | Fabric 0.14.22`)
-- Et vous extrayez le zip dans le dossier de votre instance
+- Vous créez vous-mêmes une nouvelle instance (`Minecraft v1.20.1 | Fabric 0.14.22`)
+- Et vous extrayez le zip dans le dossier de votre instance (remplacez tout)
+### SI VOUS UTILISEZ UN CLIENT CRACK
+Allez dans `config` et renommez le fichier `disabled.blanket-client.mixin.properties` en `blanket-client.mixin.properties`
 
 ---
 
@@ -36,10 +38,9 @@
   
 
 ## Trucs à changer :
-Keybinds : Pour jeter un objet (j'ai mis J mais ça plaît pas à tout le monde)  
 Shaders : Dans les Options graphiques, cliquez sur Packs de shaders, séléctionnez celui que vous voulez, Appliquer, Terminé (x3)  
 Mods -> Capes : Activez toutes les sources de capes (au cas où) parce que MinecraftCapes est désactivé par défaut alors que c'est le + utilisé  
-Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas besoin), Craftify (si vous voulez pas écouter de musique), Inventory Profiles Next (en vrai vous pouvez désactiver juste le gros texte qui s'affiche quand ton outil va casser), Mouse Tweaks (si vous en avez marre du craft autocomplete)
+Mods à désactiver : Craftify (si vous voulez pas écouter de musique)
 
 ---
 
@@ -76,7 +77,7 @@ Mods à désactiver : Continuity (il peut crash), ReplayMod (si vous en avez pas
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) : Réduit l'usage de la RAM drastiquement
 - [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils) : Fullbright sur demande
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) : Charge tout plus vite
-- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) : Tri des inventaires/coffres, remplacement des outils presque cassés, ...)
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) : Tri des inventaires/coffres, remplacement des outils presque cassés, ...
 - [Iris Shaders](https://modrinth.com/mod/iris) : Gère mieux les shaders qu'Optifine
 - [Just Enough Items](https://modrinth.com/mod/jei) : Montre les recettes, l'usage, et tout les objets que tu peux faire
 - [Krypton](https://modrinth.com/mod/krypton) : Meilleure connection aux servs
