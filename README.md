@@ -18,7 +18,9 @@ Depuis l'update `1.4.0`, le modpack est disponible en 2 versions :
 - `IUT Lite` : L'expérience de base. Tous les mods d'opti sont là, les resource packs les plus intéressants et 1 shader  
 C'est la version **recommandée** !
 - `IUT Full` : Là vous aurez peut-être + de choix en termes de shaders et resource packs (j'ai choisi le meilleur évidemment)  
-Ne choisissez cette version **uniquement** si votre PC peut le supporter, si vous allez vraiment utiliser ça, et si vous avez la place (parce que c'est littéralement 16x plus lourd)
+Ne choisissez cette version **uniquement** si votre PC peut le supporter, si vous allez vraiment utiliser ça, et si vous avez la place (parce que c'est littéralement 16x plus lourd)  
+  
+Les éléments inclus uniquement dans la version Full ont un emoji 🔰 à côté
 
 ---
 
@@ -162,25 +164,25 @@ Vous pouvez les rassembler avec cat sous Linux (`cat fichier.zip.* > fichier.zip
 
 ### Mods :
 
-- [Physics Mod (Pro)](https://minecraftphysicsmod.com/) : Ragdoll, mer réaliste, fumée, particules quand on casse un bloc, ... ATTENTION ça lag  
+- 🔰 [Physics Mod (Pro)](https://minecraftphysicsmod.com/) : Ragdoll, mer réaliste, fumée, particules quand on casse un bloc, ... ATTENTION ça lag  
   
 Comment les activer ?  
 Renommez-les en enlevant `.disabled` à la fin  
 
 ### Resource Packs :
 
-- [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars) : Un boss = Une bossbar différente
-- [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) : Les textures de base mais avec une qualité doublée
-- [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) : Pareil mais la qualité est quadruplée
-- [Hyper realistic sky](https://modrinth.com/resourcepack/hyper-realistic-sky) : Un ciel réaliste, mais t'auras 0 FPS si t'as pas une bonne carte graphique
-- [Icons](https://modrinth.com/resourcepack/icons) : Rajoute des icônes sur quasiment tous les boutons dans les menus
-- [Pixlli](https://modrinth.com/resourcepack/pixlli) : Un look vanilla avec une qualité 128x
-- [Prime's HD Textures](https://modrinth.com/resourcepack/primes-hd-textures) : Meilleures textures, 32x
-- [rotrBLOCKS](https://modrinth.com/resourcepack/rotrblocks) : Des textures un peu plus smooth, 128x
-- [Roundista](https://modrinth.com/resourcepack/roundista) : Tout est plus rond et 3D, 128x
-- [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr) : Les textures vanilla mais upscale (le style est très smooth)  
+- 🔰 [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars) : Un boss = Une bossbar différente
+- 🔰 [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) : Les textures de base mais avec une qualité doublée
+- 🔰 [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) : Pareil mais la qualité est quadruplée
+- 🔰 [Hyper realistic sky](https://modrinth.com/resourcepack/hyper-realistic-sky) : Un ciel réaliste, mais t'auras 0 FPS si t'as pas une bonne carte graphique
+- 🔰 [Icons](https://modrinth.com/resourcepack/icons) : Rajoute des icônes sur quasiment tous les boutons dans les menus
+- 🔰 [Pixlli](https://modrinth.com/resourcepack/pixlli) : Un look vanilla avec une qualité 128x
+- 🔰 [Prime's HD Textures](https://modrinth.com/resourcepack/primes-hd-textures) : Meilleures textures, 32x
+- 🔰 [rotrBLOCKS](https://modrinth.com/resourcepack/rotrblocks) : Des textures un peu plus smooth, 128x
+- 🔰 [Roundista](https://modrinth.com/resourcepack/roundista) : Tout est plus rond et 3D, 128x
+- 🔰 [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr) : Les textures vanilla mais upscale (le style est très smooth)  
   
-⚠️ Si vous utilisez ce pack, remplacez ces 3 packs par leur version [6xBR](https://packxbr.f53.dev/)
+⚠️ Si vous utilisez ce pack, remplacez ces 3 packs par leur version [6xBR](https://packxbr.f53.dev/) incluse (🔰)
 - Default Dark Mode
 - Dracula
 - VisibleOres
@@ -188,16 +190,16 @@ Renommez-les en enlevant `.disabled` à la fin
 
 ### Shaders :
 
-- [Beyond Belief Shaders](https://www.curseforge.com/minecraft/shaders/beyond-belief-shaders) : Des shaders très clean, basés sur Sonic Either
+- 🔰 [Beyond Belief Shaders](https://www.curseforge.com/minecraft/shaders/beyond-belief-shaders) : Des shaders très clean, basés sur Sonic Either
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders) : Les meilleurs shaders. point.
-- [Chocapic13' Shaders](https://www.curseforge.com/minecraft/shaders/chocapic13-shaders) : Des shaders étonnament peu coûteux en ressources
-- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) : Une réécriture complète de Complementary Shaders (c'est magnifique)
-- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) : L'original, avec une incroyable qualité
-- [FastPBR](https://modrinth.com/shader/fastpbr) : C'est joli et ça tourne bien
-- [Kappa Shader](https://modrinth.com/shader/kappa-shader) : Oui c'est beau mais ça tournera jamais sur ton PC portable
-- [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) : Peu d'effets activés par défaut, très rapide
-- [SEUS Renewed](https://www.sonicether.com/seus/) : Les shaders les plus connus, avec des bonnes perfs
-- [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io/) : C'est clean mais coûteux en ressources
-- [Soft Voxels Lite](https://modrinth.com/shader/soft-voxels-lite) : Comme [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) mais qui nécessite pas une RTX 4090
-- [Solas Shader](https://modrinth.com/shader/solas-shader) : Très clean et plutôt correct en usage de ressources
-- [Vanilla Plus Shader](https://modrinth.com/shader/vanilla-plus-shader) : Pas beaucoup de changements drastiques, donc de meilleurs perfs
+- 🔰 [Chocapic13' Shaders](https://www.curseforge.com/minecraft/shaders/chocapic13-shaders) : Des shaders étonnament peu coûteux en ressources
+- 🔰 [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) : Une réécriture complète de Complementary Shaders (c'est magnifique)
+- 🔰 [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) : L'original, avec une incroyable qualité
+- 🔰 [FastPBR](https://modrinth.com/shader/fastpbr) : C'est joli et ça tourne bien
+- 🔰 [Kappa Shader](https://modrinth.com/shader/kappa-shader) : Oui c'est beau mais ça tournera jamais sur ton PC portable
+- 🔰 [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) : Peu d'effets activés par défaut, très rapide
+- 🔰 [SEUS Renewed](https://www.sonicether.com/seus/) : Les shaders les plus connus, avec des bonnes perfs
+- 🔰 [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io/) : C'est clean mais coûteux en ressources
+- 🔰 [Soft Voxels Lite](https://modrinth.com/shader/soft-voxels-lite) : Comme [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) mais qui nécessite pas une RTX 4090
+- 🔰 [Solas Shader](https://modrinth.com/shader/solas-shader) : Très clean et plutôt correct en usage de ressources
+- 🔰 [Vanilla Plus Shader](https://modrinth.com/shader/vanilla-plus-shader) : Pas beaucoup de changements drastiques, donc de meilleurs perfs
