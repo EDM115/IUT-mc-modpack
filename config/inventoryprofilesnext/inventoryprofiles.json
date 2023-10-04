@@ -1,5 +1,8 @@
 {
     "ModSettings": {
+        "enable_auto_refill": {
+            "value": false
+        },
         "first_run": false
     },
     "GuiSettings": {

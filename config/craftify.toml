@@ -9,6 +9,11 @@
 	notification_album_art_location = 1
 	send_the_packets = false
 	send_songs_to_servers = false
+	announcement_message = "&aCraftify > &7Now Playing: &b${song} by ${artists}"
+
+[servers]
+	allowed_servers = ""
+	send_songs_to_servers = false
 
 [rendering]
 	controls = true

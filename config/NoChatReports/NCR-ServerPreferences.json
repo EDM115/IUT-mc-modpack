@@ -1,5 +1,6 @@
 {
   "signingModes": {
-    "mcvannes.live:25565": "ON_DEMAND"
+    "mcvannes.live:25565": "ON_DEMAND",
+    "141.145.215.252:25565": "ON_DEMAND"
   }
 }

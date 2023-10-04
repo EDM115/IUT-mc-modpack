@@ -1,0 +1,23 @@
+{
+    "clickthrough.config.sneaktodye": "Kucnij, aby zabarwić tabliczkę",
+    "clickthrough.config.tt.sneaktodye": "Włączony: Kliknięcie powoduje kliknięcie obiektu z tyłu, skradanie powoduje zabarwienie tabliczek\nWyłączony: Kliknięcie powoduje zabarwienie tabliczek, skradanie powoduje kliknięcie obiektu z tyłu",
+    "clickthrough.config.ignore.1": "Ignoruj tabliczkę, jeśli wiersz 1 tabliczki zawiera: ",
+    "clickthrough.config.ignore.2": "Ignoruj tabliczkę, jeśli wiersz 2 tabliczki zawiera: ",
+    "clickthrough.config.ignore.3": "Ignoruj tabliczkę, jeśli wiersz 3 tabliczki zawiera: ",
+    "clickthrough.config.ignore.4": "Ignoruj tabliczkę, jeśli wiersz 4 tabliczki zawiera: ",
+    "clickthrough.config.onlycontainers": "Klikaj jedynie na pojemniki",
+    "clickthrough.config.switchonattack": "Reroute left button as well",
+    "clickthrough.config.tt.ignore.1": "Nie ignoruj tabliczek, powiązanych ze sklepami",
+    "clickthrough.config.tt.ignore.2": "Nie ignoruj tabliczek, powiązanych ze sklepami",
+    "clickthrough.config.tt.ignore.3": "Nie ignoruj tabliczek, powiązanych ze sklepami",
+    "clickthrough.config.tt.ignore.4": "Nie ignoruj tabliczek, powiązanych ze sklepami",
+    "clickthrough.config.tt.onlycontainers": "Klikaj przez przeszkody na skrzynie, beczki itp., ale nie w stoły rzemieślnicze, kompostowniki i podobne",
+    "clickthrough.config.tt.switchonattack": "Also redirect left button clicks to what's behind the sign",
+    "key.categories.clickthrough": "ClickThrough",
+    "key.clickthrough.toggle": "Turn ClickThrough on/off",
+    "clickthrough.msg.active": "ClickThrough active",
+    "clickthrough.msg.inactive": "ClickThrough inactive",
+    "clickthrough.config.switchonattack.never": "Never",
+    "clickthrough.config.switchonattack.first": "First click",
+    "clickthrough.config.switchonattack.always": "Always"
+}
