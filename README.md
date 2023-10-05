@@ -39,7 +39,7 @@ Les éléments non inclus dans la version sur Modrinth ont un emoji 💔 à côt
 
 - Démarrez votre launcher préféré qui peut ajouter des modpacks depuis Modrinth (ATLauncher, MultiMC, Prism Launcher, ...)
 - Cherchez `IUT Vannes` et ajoutez-le  
-⚠️ Il y a moins de Shaders et Resource packs, et les mods Full 🔰 ne sont pas dispos pour des raisons légales
+⚠️ Il y a moins de Shaders et Resource packs, certains mods sont absents, et les mods Full 🔰 ne sont pas dispos pour des raisons légales
 
 ### Version pas simple
 
@@ -112,7 +112,7 @@ Shaders : Dans les Options graphiques, cliquez sur Packs de shaders, séléction
 - [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) : Permets aux shaders/resource packs d'avoir des nuages/ciels custom
 - [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) : Plus de compatibilité pour FabricSkyBoxes
 - [Fabrishot](https://modrinth.com/mod/fabrishot) : Prends des screenshots en 4K
-- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) : Garde les chunks en mémoire même si le serv dit non
+- 💔 [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) : Garde les chunks en mémoire même si le serv dit non
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) : Réduit l'usage de la RAM drastiquement
 - [FixBookGUI](https://modrinth.com/mod/fixbookgui) : Dé-casse l'UI des livres
 - [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils) : Fullbright sur demande
